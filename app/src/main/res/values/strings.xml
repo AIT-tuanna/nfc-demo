@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">線量計リーダー</string>
+
+    <!--    線量管理メニュー    -->
+    <string name="menu_main_title">線量管理メニュー</string>
+    <string name="button_scan_title">データ読取</string>
+    <string name="button_display_title">データ呼出</string>
+
+    <!--    データ読取メニュー   -->
+    <string name="menu_scan_title">データ読取メニュー</string>
+    <string name="button_mode_main_body_title">本体メモリ読取</string>
+    <string name="button_mode_nfc_title">NFCメモリ読取</string>
+
+    <!--    線量管理メニュー    -->
+    <string name="list_title">線量データ一覧(%s)</string>
+    <string name="list_title_mode_main_body">本体</string>
+    <string name="list_title_mode_nfc">NFC</string>
+    <string name="data_reading_menu">線量データ一覧</string>
+
+    <!--    線量値データ  -->
+    <string name="integration_time">積算時間</string>
+    <string name="cumulative_dose">積算線量</string>
+    <string name="temperature">温度</string>
+    <string name="battery_voltage">電池電圧</string>
+
+    <!--    Routes      -->
+    <string name="home_menu">home</string>
+    <string name="list">list</string>
+    <string name="scan_menu">home</string>
+    <string name="scan">scan</string>
+    <string name="title_activity_scan">ScanActivity</string>
+
+    <!--    データ呼出しメニュー-->
+    <string name="data_extract_menu_title">データ呼出しメニュー</string>
+    <string name="data_list_mode_main_body">本体データ呼出</string>
+    <string name="data_list_mode_main_nfc">NFCデータ呼出</string>
+
+    <!-- NFC通信画面 -->
+    <string name="success_message">Success（%.1fs）</string>
+    <string name="error_message">Error（%1$s）</string>
+
+    <!-- Common -->
+    <string name="loading">読み込み中．．．</string>
+
+</resources>
